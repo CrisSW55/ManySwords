@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    " # ",
+    " X "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:stick"
+    },
+    "#": {
+      "item": "swordmod:amethyst"
+    }
+  },
+  "result": {
+    "item": "swordmod:amethyst_sword"
+  }
+}
